@@ -1,0 +1,59 @@
+
+ .row::after
+ {
+     content: "";
+     display: table;
+     clear:both;
+ }
+ .col-1,.col-2,.col-3 ,.col-4, .col-5 ,.col-6,.col-7
+ .col-8,.col-9,.col-10, .col-11 ,.col-12
+ {
+     float: left;
+     padding: 3px;
+     box-sizing: border-box;
+ }
+.wrap-news
+ {
+    padding: 20px 50px;
+    
+ }
+ /* .boxs{
+     width:100% ;
+     height: 360px;
+     background:rgb(0, 255, 94);
+ } */
+/* .boxs
+ {
+    padding: 15px 20px;
+ } */
+ .big-box
+ {
+     width: 100%;
+     height: 360px;
+     background: chocolate;
+ }
+  /* .sm-box
+ {
+     width: 100%;
+     height: 100px;
+     background: rgb(204, 156, 156);
+     padding: 10px 5px;
+ } */
+ .b
+ {
+     width: 100%;
+     height: 177px;
+
+ background: crimson;
+ }
+
+
+
+
+
+
+
+
+
+
+
